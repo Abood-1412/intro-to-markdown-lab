@@ -28,9 +28,9 @@ const greet = (name) => {
 To execute the function, you *call* or *invoke* it by using its name followed by parentheses.
 
 **Example:**
-
-`greet('Alice');` // Outputs: Hello, Alice!
-
+```
+greet('Alice'); // Outputs: Hello, Alice!
+```
 ## 3. Return values
 
 Functions can process data input and output a value using the *return* keyword.
